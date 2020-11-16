@@ -1,7 +1,7 @@
 # CovidForecastUS
 
 **This project's Covid-19 data data comes from this github repository:**
-https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv**
+https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv
   Statistics are from sources including Johns Hopkins, the CDC, and the World Health Organization.
   The github repository is updated daily with new data.
   
