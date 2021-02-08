@@ -1,3 +1,8 @@
+**UPDATE: This project is pretty broken right now, and I have not had time to improve its accuracy. At times, this did a decent job of getting reasonably close to good projections, but it is currently way, way off. As of this writing, it projected 100k less deaths than we have in reality. This needs a complete redesign, so I might take another crack at it in the future. This was only meant as a learning exercise, and should not be relied on for any decision-making, medical or otherwise. I'm not a virologist or medical professional in any way, shape, or form. Thanks. **
+
+
+
+
 # CovidForecastUS
 
 **This project's Covid-19 data data comes from this github repository:**
